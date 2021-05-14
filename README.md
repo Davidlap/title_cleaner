@@ -16,7 +16,7 @@ No need to install any third party libraries, it works with python standard libr
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#### This to be completed
+#### Things to be completed
 
         - [ ] - Add test suite
         - [ ] - Add support to exclude specific files, such as .srt for subtitles
