@@ -12,6 +12,7 @@ No need to install any third party libraries, it works with python standard libr
 
     $ python3 title-cleaner/clean.py /path/to/movie/folder
 
+        
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
